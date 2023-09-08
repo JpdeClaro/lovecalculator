@@ -1,0 +1,29 @@
+body{
+    background-image: url(/bgBlur.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+input #bf #gf{
+    padding: 20px;
+    
+}     
+::placeholder{
+    text-align: center;
+}   
+
+div{
+    background-color: rgba(245, 245, 245, 0.445);
+    padding: 20px;
+    margin: 10% 30% 30% 30%;
+    border: 10%;
+    border-radius: 10%;
+    text-align: center;
+     box-shadow: 1px 5px 10px rgb(0, 0, 0);
+}
+button{
+    border-radius: 20px;
+}
+button img{
+    height: 100px;
+}
